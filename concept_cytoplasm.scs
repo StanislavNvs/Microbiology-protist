@@ -11,7 +11,7 @@ concept_cytoplasm<-sc_node_not_relation;
 concept_cell;
 concept_nucleus;
 concept_vacuole;
-concept_plasma membrain;
+concept_plasma_membrain
 };;
 <=nrel_sc_text_translation:...(*
 ->[Цитоплазма - полужидкое содержимое клетки, ее внутрення среда, кроме ядра и вакуоли, ограниченная плазматической мембраной.](* <- lang_ru;; => nrel_format: format_html;; *);;
@@ -27,7 +27,7 @@ concept_plasma membrain;
 =>nrel_using_constants:{
 concept_hyaloplasm;
 concept_organoid;
-concept_cytoplasm inclusions;
+concept_cytoplasm_inclusions
 };;
 <=nrel_sc_text_translation:...(*
 ->[Включает гиалоплазму, находящиеся в ней органоиды, а также включения.](* <- lang_ru;; => nrel_format: format_html;; *);;

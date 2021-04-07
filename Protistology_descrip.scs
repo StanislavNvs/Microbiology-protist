@@ -1,6 +1,4 @@
-concept_animal<-sc_node_not_relation;;
-concept_plant<-sc_node_not_relation;;
-concept_archaea<-sc_node_not_relation;;
+concept_discipline<-sc_node_not_relation;;
 
 protistology<-sc_node_not_relation;
 =>nrel_main_idtf:

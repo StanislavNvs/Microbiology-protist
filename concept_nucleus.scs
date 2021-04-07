@@ -26,7 +26,7 @@ concept_DNA
 =>nrel_using_constants:{
 concept_chromosome;
 concept_DNA;
-concept_protein;
+concept_protein
 };;
 <=nrel_sc_text_translation:...(*
 ->[В ядре заключена большая часть генетического материала клетки, представленного хромосомами, длинными линейными молекулами ДНК, связанными с белками.](* <- lang_ru;; => nrel_format: format_html;; *);;
